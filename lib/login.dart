@@ -109,6 +109,7 @@ class _LoginState extends State<Login> {
                                     labelText: 'Şifre',
                                     labelStyle: TextStyle(
                                         color: Colors.black87, fontSize: 18.0)),
+                                obscureText: true,
                               ),
                             ),
                             SizedBox(
